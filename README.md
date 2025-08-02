@@ -48,14 +48,14 @@ commands]
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](https://drive.google.com/drive/folders/1iM6Vv9QCbBYxDLATp-jpV3GFp1s33dPx )
 *Setting the safe zone by sitting normally and pressing ‘s’*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://drive.google.com/drive/folders/1n9mZlpRo-0tuSXXDIq3evr_CoVrQHjWp )
 *Intruder detected – red box shown and Khan Academy launched*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Live feed with safe zone (green box) and status overlay*
+![Screenshot3](https://drive.google.com/drive/folders/1vNv6yLuFUP07DzC8rjxfCigAe7oAXZjo )
+*Auto switch to Khan Academy tab.*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -89,7 +89,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- [Nandana B]: [ALL IN ALL]
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
 
