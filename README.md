@@ -1,60 +1,61 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [FAKEADEMIC] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [CodeX]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [Nandana B] - [LBSITW]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A motion detecting Python Script that instantly switches your screen fron a real game to a fake study page whenever someones(like your parent) walks in-so your can pretend to be productive in times of emergencies.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[How do you survive gaming during study hours without getting caught when someone walks behind you?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[A webcam-powered snitch alert system that detects background movement and launches Khan Academy so you look like the Einstein of your house—even if you were just playing GTA.It's a smarter way to dissapoint your parents becaude sometimes faking effot is effort.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Python]
 - [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [OpenCV, NumPy, pygetwindow, pywinauto, webbrowser]
+- [Visual Studio Code, Windows OS]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Laptop with webcam]
+- [Any system with Python & webcam support]
+- [ None (just your face and a cam)]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[pip install opencv-python numpy pygetwindow pywinauto
+commands]
 
 # Run
-[commands]
+[copython fakeademic.py]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Setting the safe zone by sitting normally and pressing ‘s’*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Intruder detected – red box shown and Khan Academy launched*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Live feed with safe zone (green box) and status overlay*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
